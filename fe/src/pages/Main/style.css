@@ -1,0 +1,9 @@
+.stepper__container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.validationError__text {
+  color: red;
+}

@@ -1,0 +1,10 @@
+.radioGroup__container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 20px;
+}
+
+.radioGroup__wrapper {
+  display: flex;
+  gap: 10px;
+}

@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+p,
+h1,
+label {
+  margin: 0;
+  text-align: center;
+}
+
+.quiz__container {
+  max-width: 600px;
+  margin: 100px auto 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+
+  position: relative;
+}
+
+.firstScreen__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
